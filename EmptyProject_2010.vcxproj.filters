@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{be22bbdb-649d-40c0-ba7e-848a40ef8786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Image">
+      <UniqueIdentifier>{643ba028-de91-4eff-931d-5fd307b28d94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Input">
+      <UniqueIdentifier>{b64b29e0-d38b-4182-af39-1fe821a95eb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Particle">
+      <UniqueIdentifier>{6566d354-c5e1-464d-ae91-030fce8c5cf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Render">
+      <UniqueIdentifier>{05bca1c2-de3c-43d2-97b1-5caff3ca8e4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\UI">
+      <UniqueIdentifier>{4fb4bc7b-a013-4586-a9b4-2f27bbf04eaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Scene">
+      <UniqueIdentifier>{b0f40bd3-c8a8-42c5-886d-1508d064103d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{73ace320-b6de-463e-80a2-26aaa0f317eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{123f723e-0426-4230-8bee-28d829714d27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{cee29f0c-64af-4caf-9ddf-76ae0b555e55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet">
+      <UniqueIdentifier>{69d08a73-ea8c-4b69-a8e0-8bc5d58003ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\Admin">
+      <UniqueIdentifier>{61a395be-1694-48b6-bdb7-ac4c29167b4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Item">
+      <UniqueIdentifier>{92397bb9-f3e8-474c-bf7a-17bc2046afcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Item\Admin">
+      <UniqueIdentifier>{33a13b08-dc49-4dc1-83ff-193106ae0763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Player">
+      <UniqueIdentifier>{a410a2de-d54f-4a74-8ba7-bb71c909fe1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Item\Heal">
+      <UniqueIdentifier>{bf421367-b74e-4233-b7f4-f1167991b891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Map">
+      <UniqueIdentifier>{03511705-4f25-436e-b9af-09830804a055}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\PlayerBullet">
+      <UniqueIdentifier>{9bbec9ef-f3ff-460c-8856-60397a96ea63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\cCollision">
+      <UniqueIdentifier>{07a8ae89-00bb-4989-add2-ae37d068be33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\MobBullet">
+      <UniqueIdentifier>{d855cb9c-0ee7-47be-94f2-76b0af27f835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\MobBullet\cPurple">
+      <UniqueIdentifier>{20ea73b8-186d-41d7-9ddf-e73b272303f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Stage1Scene">
+      <UniqueIdentifier>{3ac4d8a9-566a-4812-ae00-101eda4380dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\TitleScene">
+      <UniqueIdentifier>{68daf8de-7b8e-4e7a-86f1-df20ac740781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\MobBullet\cBlue">
+      <UniqueIdentifier>{3ac30519-3fc5-4fb0-9b5d-585f150e66d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\MobBullet\cYellow">
+      <UniqueIdentifier>{c640f4ce-184b-4ed1-869a-b7c949dd1c44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\MobBullet\cRed">
+      <UniqueIdentifier>{eb39b8d8-6930-4f77-bedd-a26f2634ce1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Stage2Scene">
+      <UniqueIdentifier>{f99eee96-e078-425c-a185-0c5bad14c9a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Bullet\MobBullet\cMooon">
+      <UniqueIdentifier>{7d7bc9f4-fefe-4488-961a-e5373b11db1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\EndScene">
+      <UniqueIdentifier>{70db19af-cab1-4231-a512-7b7e7dcea937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob">
+      <UniqueIdentifier>{21e0861a-cf9d-4bb2-9b6d-e72475b41eac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\Admin">
+      <UniqueIdentifier>{c635b9c7-42ad-41ab-9c47-3c009fd1b5a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\BlueMob">
+      <UniqueIdentifier>{b473f2d2-0b3e-4cdf-9877-12a81a7a715e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\RedMob">
+      <UniqueIdentifier>{9b99c83f-b767-4c5b-b14e-cd07143ca71c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\YellowMob">
+      <UniqueIdentifier>{6b4ef8ff-66a0-4af8-9ea1-1b87eec122cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\Purple">
+      <UniqueIdentifier>{2dbd7b61-ab41-4d5e-ac2b-58ec61b465cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\Orange">
+      <UniqueIdentifier>{a55b2578-e276-463d-ab29-b9c2a49e5340}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mob\MoonMob">
+      <UniqueIdentifier>{e28f00f0-6655-424c-8a84-01a9a57a6235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Warning">
+      <UniqueIdentifier>{6b99bc4a-8100-4366-bd1f-b0c0ad84a101}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EmptyProject.cpp" />
+    <ClCompile Include="singleton.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cImageManager.cpp">
+      <Filter>Manager\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="cTexture.cpp">
+      <Filter>Manager\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="cInputManager.cpp">
+      <Filter>Manager\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticle.cpp">
+      <Filter>Manager\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticleAni.cpp">
+      <Filter>Manager\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticleManager.cpp">
+      <Filter>Manager\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="cRenderManager.cpp">
+      <Filter>Manager\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene.cpp">
+      <Filter>Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="cSceneManager.cpp">
+      <Filter>Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="cTimer.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cMainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="cUIManager.cpp">
+      <Filter>Manager\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="cBulletAdmin.cpp">
+      <Filter>Object\Bullet\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="cBullet.cpp">
+      <Filter>Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayer.cpp">
+      <Filter>Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="cMob.cpp">
+      <Filter>Object\Mob</Filter>
+    </ClCompile>
+    <ClCompile Include="cItem.cpp">
+      <Filter>Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="cHealItem.cpp">
+      <Filter>Object\Item\Heal</Filter>
+    </ClCompile>
+    <ClCompile Include="cItemAdmin.cpp">
+      <Filter>Object\Item\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="cSrollMap.cpp">
+      <Filter>Object\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerBullet.cpp">
+      <Filter>Object\Bullet\PlayerBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="cMobAdmin.cpp">
+      <Filter>Object\Mob\Admin</Filter>
+    </ClCompile>
+    <ClCompile Include="cBlueMob.cpp">
+      <Filter>Object\Mob\BlueMob</Filter>
+    </ClCompile>
+    <ClCompile Include="cCollision.cpp">
+      <Filter>Object\cCollision</Filter>
+    </ClCompile>
+    <ClCompile Include="cPurPle.cpp">
+      <Filter>Object\Bullet\MobBullet\cPurple</Filter>
+    </ClCompile>
+    <ClCompile Include="cStage1Scene.cpp">
+      <Filter>Scene\Stage1Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="cTitleScene.cpp">
+      <Filter>Scene\TitleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cBlueBullet.cpp">
+      <Filter>Object\Bullet\MobBullet\cBlue</Filter>
+    </ClCompile>
+    <ClCompile Include="cRedBullet.cpp">
+      <Filter>Object\Bullet\MobBullet\cRed</Filter>
+    </ClCompile>
+    <ClCompile Include="cYellowBullet.cpp">
+      <Filter>Object\Bullet\MobBullet\cYellow</Filter>
+    </ClCompile>
+    <ClCompile Include="cOrangeMob.cpp">
+      <Filter>Object\Mob\Orange</Filter>
+    </ClCompile>
+    <ClCompile Include="cRedMob.cpp">
+      <Filter>Object\Mob\RedMob</Filter>
+    </ClCompile>
+    <ClCompile Include="cPurpleMob.cpp">
+      <Filter>Object\Mob\Purple</Filter>
+    </ClCompile>
+    <ClCompile Include="cYellowMob.cpp">
+      <Filter>Object\Mob\YellowMob</Filter>
+    </ClCompile>
+    <ClCompile Include="cMoonMob.cpp">
+      <Filter>Object\Mob\MoonMob</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerAni.cpp">
+      <Filter>Manager\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="cStage2Scene.cpp">
+      <Filter>Scene\Stage2Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="cMoonBullet1.cpp">
+      <Filter>Object\Bullet\MobBullet\cMooon</Filter>
+    </ClCompile>
+    <ClCompile Include="cMoonBullet2.cpp">
+      <Filter>Object\Bullet\MobBullet\cMooon</Filter>
+    </ClCompile>
+    <ClCompile Include="cEndScene.cpp">
+      <Filter>Scene\EndScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cOverScene.cpp">
+      <Filter>Scene\EndScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cMeteor.cpp">
+      <Filter>Object\Bullet\MobBullet\cMooon</Filter>
+    </ClCompile>
+    <ClCompile Include="cWarning.cpp">
+      <Filter>Object\Warning</Filter>
+    </ClCompile>
+    <ClCompile Include="cSrollMap1.cpp">
+      <Filter>Object\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="cSrollMap2.cpp">
+      <Filter>Object\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="cSrollMap3.cpp">
+      <Filter>Object\Map</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="EmptyProject.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ClInclude Include="singleton.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="cImageManager.h">
+      <Filter>Manager\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="cTexture.h">
+      <Filter>Manager\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="cInputManager.h">
+      <Filter>Manager\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticle.h">
+      <Filter>Manager\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticleAni.h">
+      <Filter>Manager\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticleManager.h">
+      <Filter>Manager\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="cRenderManager.h">
+      <Filter>Manager\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene.h">
+      <Filter>Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="cSceneManager.h">
+      <Filter>Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="cTimer.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cMainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="cUIManager.h">
+      <Filter>Manager\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="cBulletAdmin.h">
+      <Filter>Object\Bullet\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="cBullet.h">
+      <Filter>Object\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayer.h">
+      <Filter>Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="cMob.h">
+      <Filter>Object\Mob</Filter>
+    </ClInclude>
+    <ClInclude Include="cItem.h">
+      <Filter>Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="cHealItem.h">
+      <Filter>Object\Item\Heal</Filter>
+    </ClInclude>
+    <ClInclude Include="cItemAdmin.h">
+      <Filter>Object\Item\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="cSrollMap.h">
+      <Filter>Object\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerBullet.h">
+      <Filter>Object\Bullet\PlayerBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="cMobAdmin.h">
+      <Filter>Object\Mob\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="cBlueMob.h">
+      <Filter>Object\Mob\BlueMob</Filter>
+    </ClInclude>
+    <ClInclude Include="cCollision.h">
+      <Filter>Object\cCollision</Filter>
+    </ClInclude>
+    <ClInclude Include="cPurPle.h">
+      <Filter>Object\Bullet\MobBullet\cPurple</Filter>
+    </ClInclude>
+    <ClInclude Include="cStage1Scene.h">
+      <Filter>Scene\Stage1Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="cTitleScene.h">
+      <Filter>Scene\TitleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cBlueBullet.h">
+      <Filter>Object\Bullet\MobBullet\cBlue</Filter>
+    </ClInclude>
+    <ClInclude Include="cRedBullet.h">
+      <Filter>Object\Bullet\MobBullet\cRed</Filter>
+    </ClInclude>
+    <ClInclude Include="cYellowBullet.h">
+      <Filter>Object\Bullet\MobBullet\cYellow</Filter>
+    </ClInclude>
+    <ClInclude Include="cOrangeMob.h">
+      <Filter>Object\Mob\Orange</Filter>
+    </ClInclude>
+    <ClInclude Include="cRedMob.h">
+      <Filter>Object\Mob\RedMob</Filter>
+    </ClInclude>
+    <ClInclude Include="cPurpleMob.h">
+      <Filter>Object\Mob\Purple</Filter>
+    </ClInclude>
+    <ClInclude Include="cYellowMob.h">
+      <Filter>Object\Mob\YellowMob</Filter>
+    </ClInclude>
+    <ClInclude Include="cMoonMob.h">
+      <Filter>Object\Mob\MoonMob</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerAni.h">
+      <Filter>Manager\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="cStage2Scene.h">
+      <Filter>Scene\Stage2Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="cMoonBullet1.h">
+      <Filter>Object\Bullet\MobBullet\cMooon</Filter>
+    </ClInclude>
+    <ClInclude Include="cMoonBullet2.h">
+      <Filter>Object\Bullet\MobBullet\cMooon</Filter>
+    </ClInclude>
+    <ClInclude Include="cEndScene.h">
+      <Filter>Scene\EndScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cOverScene.h">
+      <Filter>Scene\EndScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cMeteor.h">
+      <Filter>Object\Bullet\MobBullet\cMooon</Filter>
+    </ClInclude>
+    <ClInclude Include="cWarning.h">
+      <Filter>Object\Warning</Filter>
+    </ClInclude>
+    <ClInclude Include="cSrollMap1.h">
+      <Filter>Object\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="cSrollMap2.h">
+      <Filter>Object\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="cSrollMap3.h">
+      <Filter>Object\Map</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

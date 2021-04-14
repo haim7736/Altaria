@@ -1,0 +1,135 @@
+﻿'EmptyProject.exe'(Win32): 'C:\Users\haim\Desktop\game\EmptyProject\Debug\EmptyProject.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ntdll.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\kernel32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\KernelBase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\user32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\win32u.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\D3dx9d_43.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\D3DX10d_43.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17763.1282_none_b4b28a196e76d4a4\comctl32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msvcrt.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msvcrt.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msvcrt.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\advapi32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gdi32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gdi32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gdi32.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gdi32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gdi32.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gdi32full.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\sechost.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ole32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\rpcrt4.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msvcp_win.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\combase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\sspicli.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbase.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\cryptbase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\shell32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\SHCore.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\windows.storage.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\profapi.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\powrprof.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\shlwapi.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\cryptsp.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msvcp140d.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbased.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbased.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbased.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\imm32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\uxtheme.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msctf.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\oleaut32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\dwmapi.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\crypt32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\msasn1.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\d3d9.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\nvldumd.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\version.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\cryptnet.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\wintrust.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\imagehlp.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\rsaenh.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\bcrypt.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\nvd3dum.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\nvd3dum.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\nvd3dum.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmm.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmmbase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmmbase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmmbase.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmmbase.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmmbase.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll'을(를) 언로드했습니다.
+0x2598 스레드가 종료되었습니다(코드: 0 (0x0)).
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\d3dref9.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\nvspcap.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\ntmarta.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\gpapi.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 언로드했습니다.
+0x1f9c 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x4b30 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x1ee0 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x9e8 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x1c40 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2a5c 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2ea0 스레드가 종료되었습니다(코드: 0 (0x0)).
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\NvCamera\NvCameraWhitelisting32.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\WinTypes.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\WinTypes.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\WinTypes.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\WinTypes.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\WinTypes.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\clbcatq.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\IME\IMEKR\imkrtip.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\propsys.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\IME\shared\IMETIP.DLL'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\oleacc.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\dui70.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\IME\IMEKR\imkrapi.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\IME\shared\IMJKAPI.DLL'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\xinput1_3.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\xinput1_3.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\xinput1_3.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\setupapi.dll'을(를) 로드했습니다. 
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\IME\IMEKR\imkrtip.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\oleacc.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\dui70.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\IME\shared\IMETIP.DLL'을(를) 언로드했습니다.
+0x1494 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x4234 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x3978 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x4e84 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2dc8 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x55e4 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2090 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x53dc 스레드가 종료되었습니다(코드: 0 (0x0)).
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmmbase.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\SysWOW64\winmm.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\nvd3dum.dll'을(를) 언로드했습니다.
+'EmptyProject.exe'(Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvsmi.inf_amd64_7189baf840893127\nvldumd.dll'을(를) 언로드했습니다.
+0x10d4 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x3a08 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x30f8 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x4300 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x4cd0 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x4ec4 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[18680] EmptyProject.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
